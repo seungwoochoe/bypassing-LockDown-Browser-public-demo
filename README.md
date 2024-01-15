@@ -1,8 +1,12 @@
 # Bypassing LockDown Browser demonstration
 
-This repository is for demonstrating a potential flaw within [Respondus LockDown Browser](https://web.respondus.com/he/lockdownbrowser) for the purpose of constructive feedback and improvement. It is not intended to encourage any exploitation.
+This repository is for demonstrating a flaw within [Respondus LockDown Browser](https://web.respondus.com/he/lockdownbrowser) for the purpose of constructive feedback and improvement. It is not intended to encourage any exploitation.
 
 Tested on LockDown Browser OEM version 2.1.1.
+
+## Video
+
+[![Bypassing LockDown Browser demo video](https://img.youtube.com/vi/UcjpIgUfYjY/0.jpg)](https://www.youtube.com/watch?v=UcjpIgUfYjY)
 
 ## Instructions
 
